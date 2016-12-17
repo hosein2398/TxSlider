@@ -31,7 +31,7 @@ Then create a div with id of tx:
     <div id="tx">
     </div>
 
-Add you data you want to show in var data:
+Add your data you want to show in var data:
 
     var data = [
             {
@@ -61,13 +61,14 @@ And config it as you wish:
 >**timer** (string): Sets timer for slider.(default value is 4).
 
 <p>
->**infinit** (bolean): Sets the slider to infinite loop.
+>**infinit** (boolean): Sets the slider to infinite loop.
 
 <p>
 >**stayIn** (Int): If you want to stay in one slide after that all slides has been shown. (In most cases no effect would be added to last element)
 >e.g. 4 will stay in forth slide.
 
 *Note : You can not use __infinit__ and __stayIn__ together.*
+<br>
 *Note : If you don't define __infinit__ and __stayIn__ both , then slider would stop sliding in last element.*
 <p>
 >**effect** (string): Sets the effect. list of effects:
@@ -80,7 +81,7 @@ And config it as you wish:
 >> *  rotate2
 
 <p>
->**dir** (string): Sets text direction for languages like Persian , Arabic , ...
+>**dir** (string): Sets text direction for languages like Persian , Arabic , ... (you don't need this most of the time)
 
 
 
