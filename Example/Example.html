@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../txslider.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        #tx { 
+            height: 20px;
+            width: 300px;
+            position: absolute;
+            overflow: hidden;
+            border-bottom: 1px solid black; /* Til this line every thing mandatory after this line add you styles*/
+            margin: 20% 35%;
+        }
+    </style>
+    <h1>TxSlider</h1>
+    
+    
+    
+<!--   Just create this div-->
+    <div id="tx"></div> 
+    <script>
+        
+        var data = [ // here you define text that must be shown
+            {
+                text: "Hello world"
+        }, {
+                text: "Lorem ipsum dolor."
+        }, {
+                text: "Numbers 1234567"
+        }, {
+                text: "Hosein2398"
+        }, {
+                text: "Nice!"
+        }
+    ];
+    var tx_conf = {
+            effect: "flash", 
+            timer: 2,
+            //dir : "rtl"
+            stayIn: 1
+        }
+    </script>
+</body>
+
+</html>

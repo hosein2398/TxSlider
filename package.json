@@ -1,0 +1,19 @@
+{
+  "name": "txslider",
+  "version": "1.0.0",
+  "description": "Javascript library , text slider for web page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "slider",
+    "text slider",
+    "Txslider",
+      "sliding text",
+      "animating text"],
+    "author": "Hosein2398",
+  "license": "MIT",
+  "repository": "hosein2398/txslider"
+}
