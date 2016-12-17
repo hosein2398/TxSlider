@@ -3,7 +3,7 @@ Txslider is js library for sliding text on web pages.
 ##Demos
 Default:
 
-![Default text slider](/https://github.com/hosein2398/TxSlider/blob/master/gifs/default.gif "gif")
+![Default text slider](https://raw.githubusercontent.com/hosein2398/TxSlider/master/gifs/default.gif)
 
 
 ##Installing
