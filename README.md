@@ -16,7 +16,7 @@ Txslider is js library for sliding text on web pages.
 
     <script src="tx.js"></script>
 ##Usage
-To put this to work first add this lines of Css (you can add more styles but don't change 'positon' , 'overflow'):
+To put this to work first add this lines of Css (you can add more styles but try not to change 'position' & 'overflow'):
 
     #tx {
             height: 20px;

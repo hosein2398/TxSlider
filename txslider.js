@@ -92,6 +92,7 @@ window.onload = function () {
             }
             else if(tx_conf.stayIn) {
                 stop();
+                
             }
 
         }
