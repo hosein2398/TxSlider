@@ -1,32 +1,31 @@
-#Txslider 
+# Txslider 
 
 Txslider is js library for sliding text on web pages.
 
-##Demos 
+## Demos 
 
-#####default effect:
+##### default effect:
 
 ![Default text slider](https://raw.githubusercontent.com/hosein2398/TxSlider/master/gifs/default.gif)
 <br>
 
-#####flash effect:
-
+##### flash effect:
 ![Default text slider](https://raw.githubusercontent.com/hosein2398/TxSlider/master/gifs/flash.gif)
 <br>
 
-#####press effect:
+##### press effect:
 
 ![Default text slider](https://raw.githubusercontent.com/hosein2398/TxSlider/master/gifs/press.gif)
 <br>
 
-#####rotate effect:
+##### rotate effect:
 
 ![Default text slider](https://raw.githubusercontent.com/hosein2398/TxSlider/master/gifs/rotate.gif)
 
-##Installing
+## Installing
 
     <script src="tx.js"></script>
-##Usage
+## Usage
 To put this to work first add this lines of Css (you can add more styles but try not to change 'position' & 'overflow'):
 
     #tx {
@@ -67,7 +66,7 @@ And config it as you wish:
             //stayIn: 1
         }
 
-###Paramaters
+### Paramaters
 
 >**timer** (string): Sets timer for slider.(default value is 4).
 
