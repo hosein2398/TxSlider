@@ -80,11 +80,14 @@ And config it as you wish:
 >
 > e.g. 4 will stay in forth slide.
 
+
 * Note : You can not use __infinit__ and __stayIn__ together. 
+
 <br>
+
 * Note : If you don't define __infinit__ and __stayIn__ both , then slider would stop sliding in last element.
 
-
+<br>
 
 
 > **effect** (string): Sets the effect. list of effects:   
